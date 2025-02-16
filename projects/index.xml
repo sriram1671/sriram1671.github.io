@@ -1,20 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on My New Hugo Site</title>
-    <link>https://sriram1671.github.io/</link>
-    <description>Recent content in Home on My New Hugo Site</description>
+    <title>Projects on My New Hugo Site</title>
+    <link>https://sriram1671.github.io/projects/</link>
+    <description>Recent content in Projects on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 22 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://sriram1671.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Streamlining Real Estate Operations with AI</title>
-      <link>https://sriram1671.github.io/posts/sample/</link>
-      <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://sriram1671.github.io/posts/sample/</guid>
-      <description>&lt;p&gt;In the hustle and bustle of real estate, every second counts, and so does every detail. Recently, a friend of mine, a dedicated real estate agent, shared how challenging it was to keep track of client calls, jot down details, and ensure nothing was overlooked. Inspired by this, I decided to create a solution that simplifies their workflow. Here&amp;rsquo;s what I built using Hugging Face Spaces:&lt;/p&gt;&#xA;&lt;h2 class=&#34;heading&#34; id=&#34;video-demo&#34;&gt;&#xD;&#xA;  Video Demo&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#video-demo&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;div class=&#34;video-container&#34;&gt;&#xD;&#xA;    &lt;iframe &#xD;&#xA;        src=&#34;https://drive.google.com/file/d/1wmlXHALnI37Pn84B6kzb01aL9w2NBStT/preview&#34; &#xD;&#xA;        width=&#34;640&#34; &#xD;&#xA;        height=&#34;360&#34;&#xD;&#xA;        allow=&#34;autoplay&#34;&#xD;&#xA;        allowfullscreen&#xD;&#xA;        style=&#34;border: none;&#34;&gt;&#xD;&#xA;    &lt;/iframe&gt;&#xD;&#xA;&lt;/div&gt;&#xA;&lt;h2 class=&#34;heading&#34; id=&#34;the-solution&#34;&gt;&#xD;&#xA;  The Solution&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#the-solution&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Upload Recordings&lt;/strong&gt;: Users upload recorded client calls directly to the platform.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Transcription&lt;/strong&gt;: Leveraging Whisper, the voice recordings are transcribed with precision.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Data Extraction&lt;/strong&gt;: Powered by GPT-3.5-Turbo, it extracts key details from the transcripts.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Streamlined Output&lt;/strong&gt;: The extracted data is automatically populated into a Google Sheet in a clean, tabular format.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 class=&#34;heading&#34; id=&#34;details-extracted&#34;&gt;&#xD;&#xA;  Details Extracted&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#details-extracted&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h3&gt;&#xD;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Client&amp;rsquo;s Name&lt;/li&gt;&#xA;&lt;li&gt;Property Type&lt;/li&gt;&#xA;&lt;li&gt;Location&lt;/li&gt;&#xA;&lt;li&gt;Size (in sq. ft)&lt;/li&gt;&#xA;&lt;li&gt;Number of Bedrooms&lt;/li&gt;&#xA;&lt;li&gt;Price&lt;/li&gt;&#xA;&lt;li&gt;Description&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 class=&#34;heading&#34; id=&#34;whats-next&#34;&gt;&#xD;&#xA;  What&amp;rsquo;s Next?&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#whats-next&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;I&amp;rsquo;m excited to add even more features to enhance the tool, such as:&lt;/p&gt;</description>
-    </item>
+    <atom:link href="https://sriram1671.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Streamlining Real Estate Operations with AI</title>
       <link>https://sriram1671.github.io/projects/sample-copy/</link>
